@@ -30,8 +30,13 @@ public class Main {
 		boolean islanjutkan = true;
 		
 		while (islanjutkan) {
-//		clearScreen();
-		 System.out.println("	PT Mentol");
+// 		clearScreen(); 
+			//uncommand kalau pakai console
+		 System.out.println(" __/\\__	  ..... .......  ...... ..... ..... ......  .... ..");
+		 System.out.println(" \\_\\/_/	  .   ..  ..     . .  . .     .   .   ..    .  . ..");
+		 System.out.println(" /_/\\_\\	  . ..    ..     . .  . ..... .   .   ..    .  . ..");
+		 System.out.println("   \\/     ...	  ..     . .  . .     .   .   ..    .  . ..");
+		 System.out.println("          ..	  ..  x  . .  . ..... .   .   ..    .... ......");
 		 System.out.println("----------------------------------");
 		 System.out.println("[1].... Lihat Seluruh Karyawan");
 		 System.out.println("[2].... Update Data Karyawan");
