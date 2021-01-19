@@ -1,6 +1,7 @@
 # MidProjectJavaLnT
 
 Notes:
+
 **Untuk fitur auto-update gaji karyawan setiap 3 karyawan baru saya belum bisa :(, 
 dikarenakan masih kurang tau cara mendeclare struct (sperti di C/C++) di Java, 
 supaya dapat langsung sort dan manipulasi.
@@ -9,6 +10,7 @@ supaya dapat langsung sort dan manipulasi.
 sesuai nama.
 
 **database.txt == file .txt yg menampung semua data
+
 **tempDB.txt == file .txt sementar digunakan untuk proses UPDATE n DELETE
 
 Regards,
