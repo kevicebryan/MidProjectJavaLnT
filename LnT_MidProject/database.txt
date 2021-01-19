@@ -1,0 +1,5 @@
+XX-6634,Aaron Sebastian,Laki-laki,Supervisor,6000000
+CV-0060,Berlian Diamond,Perempuan,Manager,8000000
+AV-7500,Charlie Cobuset,Laki-laki,Supervisor,6200000
+UV-5524,Deddy Mantap,Laki-laki,Admin,4000000
+OR-5036,Ellie Tusukgigi,Perempuan,Manager,8000000
