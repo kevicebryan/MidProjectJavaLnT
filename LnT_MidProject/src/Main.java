@@ -50,7 +50,7 @@ public class Main {
 			 System.out.println("================================");
 			 tampilkanData();
 			 break;
-		 case "2":
+		 case "2"://done
 			 System.out.println("================================");
 			 System.out.println("UPDATE KARYAWAN");
 			 System.out.println("================================");
